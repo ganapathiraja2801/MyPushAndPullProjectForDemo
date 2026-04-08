@@ -5,6 +5,11 @@ public class FourthClass {
 		// TODO Auto-generated method stub
 		//GanaDaiii
 
+		public boolean isEven(int number) {
+    return number % 2 == 0;
+}
+
+
 	}
 
 }
